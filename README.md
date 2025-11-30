@@ -51,7 +51,6 @@ Buka Neovim dan tunggu proses instalasi plugin dan yang lainnya:
 nvim
 ```
 
-
 ✅ **Neovim siap digunakan untuk coding!**
 
 ---
