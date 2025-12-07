@@ -5,6 +5,12 @@ Neovim fully configured untuk coding web development di perangkat mobile, ringan
 
 ---
 
+## 📺 Video Panduan
+Tonton tutorial lengkap instalasi dan penggunaan di YouTube:
+[![Video Panduan](https://img.shields.io/badge/YouTube-Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/HkUcVulD4p0?si=EGc0-iHU7OYgkbN1)
+
+---
+
 ## ✨ Fitur Utama
 - 🔧 **LSP lengkap** untuk HTML, CSS, JavaScript, TypeScript, dan PHP  
 - 🎨 **Treesitter** untuk syntax highlighting  
